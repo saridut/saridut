@@ -4,7 +4,7 @@
 
 I am an R&D engineer specializing in translating complex physical phenomena (polymers, soft matter, nanoplatelets) into scalable stochastic solvers, machine learning pipelines, and high-performance computing workflows. I build custom physics engines and automate laboratory data pipelines.
 
-📫 **Let's connect:** [LinkedIn](https://linkedin.com/in/saridut) | [Google Scholar](https://scholar.google.com/citations?user=Em4Xdv0AAAAJ&hl=fr)
+📫 **Let's connect:** [LinkedIn](https://linkedin.com/in/saridut)
 
 ### 🛠️ Core Tech Stack
 * **Languages:** Python, C++, Fortran 2008, C, R, Bash
