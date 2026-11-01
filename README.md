@@ -16,7 +16,7 @@ I am an R&D engineer specializing in translating complex physical phenomena (pol
 ### 🚀 Highlighted Software Deliverables
 
 #### [NPLSizer](https://github.com/saridut/NPLSizer) (Python)
-An open-source computer vision GUI tool for the automated, high-throughput sizing of nanoparticles from microscopy data. Built using `napari`, `scikit-image`, and `OpenCV`. 
+An open-source computer vision GUI tool for the semi-automated, high-throughput sizing of nanoparticles from microscopy data. Built using `napari`, `scikit-image`, and `OpenCV`. 
 
 #### [FloriPy](https://github.com/saridut/FloriPy) (Python)
 A custom physics engine that couples constrained multi-body dynamics (Kane's equations) with viscous fluid drag to simulate complex fluid-structure interactions (FSI) for foldable micro-structures.
