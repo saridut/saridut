@@ -1,13 +1,13 @@
 # Hi, I'm Sarit Dutta 👋
 
-**Computational R&D Engineer | Materials Modeling & HPC | Python, C++, Fortran**
+**Computational R&D Engineer | Materials Modeling & HPC | Python, C, Fortran**
 
 I am an R&D engineer specializing in translating complex physical phenomena (polymers, soft matter, nanoplatelets) into scalable stochastic solvers, machine learning pipelines, and high-performance computing workflows. I build custom physics engines and automate laboratory data pipelines.
 
 📫 **Let's connect:** [LinkedIn](https://linkedin.com/in/saridut)
 
 ### 🛠️ Core Tech Stack
-* **Languages:** Python, C++, Fortran 2008, C, R, Bash
+* **Languages:** Python, C, Fortran, C++, Bash
 * **Simulation & HPC:** LAMMPS, GROMACS, MPI, OpenMP
 * **Data & ML:** PyTorch, scikit-learn, OpenCV, scikit-image, napari, pandas
 
@@ -21,5 +21,5 @@ An open-source computer vision GUI tool for the semi-automated, high-throughput 
 #### [FloriPy](https://github.com/saridut/FloriPy) (Python)
 A custom physics engine that couples constrained multi-body dynamics (Kane's equations) with viscous fluid drag to simulate complex fluid-structure interactions (FSI) for foldable micro-structures.
 
-#### [brownpak](https://github.com/saridut/brownpak) (Fortran 2008)
+#### [brownpak](https://github.com/saridut/brownpak) (Fortran)
 A high-performance Brownian Dynamics simulation suite featuring explicit/semi-implicit solvers, hydrodynamic interactions, and optimized spatial tree structures (AABB/Verlet/Cell-list) for macromolecular modeling.
